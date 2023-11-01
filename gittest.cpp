@@ -12,7 +12,7 @@ int main()
 
     std::cout << "ma-jisitekudasai\n";
 
-    std::cout << "プルリクエストの作成\n";
+    std::cout << "プルリクエスト作成\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
