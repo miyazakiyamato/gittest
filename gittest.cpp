@@ -12,8 +12,6 @@ int main()
 
     std::cout << "ma-jisitekudasai\n";
 
-
-    std::cout << "プルしてから作業します\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
