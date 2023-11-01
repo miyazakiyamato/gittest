@@ -11,6 +11,8 @@ int main()
     std::cout << "2023/10/11\n";
 
     std::cout << "ma-jisitekudasai\n";
+
+    std::cout << "プルリクエストの作成\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
